@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/India_house_detail.csv filter=lfs diff=lfs merge=lfs -text
